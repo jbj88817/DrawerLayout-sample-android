@@ -1,0 +1,4 @@
+/Users/bojiejiang/AndroidStudioProjects/SlidingMenu/app/build/intermediates/classes/debug
+/Users/bojiejiang/AndroidStudioProjects/SlidingMenu/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-f926ee8c8d1d429ac189d5b530a59cceb922c38f.jar
+/Users/bojiejiang/AndroidStudioProjects/SlidingMenu/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-d603c5f638e87e2169ad7826d84ac6b5116516f5.jar
+/Users/bojiejiang/AndroidStudioProjects/SlidingMenu/app/build/intermediates/pre-dexed/debug/classes-d03520360d3135ab0eb37566d760d8c0630ba095.jar
